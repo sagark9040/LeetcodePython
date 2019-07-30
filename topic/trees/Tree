@@ -1,0 +1,11 @@
+import os
+
+class Node:
+    Node left, right
+    int val
+
+    def Node(self, int v):
+        self.val = v
+
+root = Node(1)
+

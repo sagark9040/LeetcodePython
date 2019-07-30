@@ -1,0 +1,4 @@
+Compare to none, null operator
+Break
+    if n == None:
+        break
