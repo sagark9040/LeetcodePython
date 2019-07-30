@@ -15,6 +15,9 @@ class Logger:
         return status
 
 
+
+
+
 # Outside of class
 # d = {}
 # def spm(timestamp, message):
